@@ -1,0 +1,86 @@
+
+@media only screend and (max-width:959px) { }  
+.slider_articleyeni{ 
+    display: block;
+    bottom: 439.203;
+    margin-top: 343px;
+    margin-left: 565px;
+	}
+   .tumkonular{
+    width:500px !important;
+    height:500px !important;
+    }
+
+.pad10
+{
+    background-color:burlywood !important;
+}
+.pad10 ul
+{
+    color: azure !important;
+    background-color:firebrick !important;
+}
+.pad10 .li active
+{
+    background-color:firebrick !important;
+}
+.latest_postnav li
+{
+    margin-bottom:10px;
+    float:left;
+    width:100%;
+    font-family:sans-serif;
+    
+}
+.latest_newsarea
+{
+    font-family:monospace !important;
+    float:left;
+    display:inline;
+    width:100%;
+    background-color:burlywood;
+    position:relative
+}
+.latest_newsarea span
+{
+    background-color:firebrick;
+}
+.single_post_content > h2{
+    background:none repeat scroll 0 0 burlywood ;
+    color:#fff;
+    font-family:'Oswald',sans-serif;
+    font-size:15px; 
+    font-weight:330; 
+    margin-bottom:10px; 
+    margin-left:0;
+    margin-top:5px; 
+    padding:10; 
+    position:relative; 
+    text-align:center; 
+    text-transform:uppercase; 
+    margin-bottom:20px
+}
+.single_post_content > h2 span{
+    padding:4px 10px;
+    background-color:firebrick;
+    color:azure;
+}
+.latest_post > h2
+{
+    background-color:burlywood;
+}
+.latest_post > h2 span
+{
+    background-color:firebrick;
+}
+.bsbig_fig figcaption{
+    color:darkslategray; 
+    font-family:"Oswald",sans-serif; 
+    font-size:18px; 
+    font-weight:300; 
+    margin-top:10px; 
+    margin-bottom:10px
+}
+
+@media only screen and (max-width: 960px) { }
+
